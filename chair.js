@@ -7,7 +7,7 @@
 var chairKicks = 1;
 var doorHits = 1;
 var freeFromSpell = false;
-var wordsGained = 2;
+var wordsGained = 0;
 
 function scene1() {
     game.log("There is a chair in the middle of the room. It is holding all your attention. (Press Enter)");
