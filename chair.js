@@ -62,7 +62,7 @@ function scene3() {
 
 
 function scene4() {
-    game.log("You can't. The chair is holding all of your attention");
+    game.log("You can't. The chair is holding all of your attention.");
     goToSceneAfterEnter(3);
 }
 

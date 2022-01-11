@@ -33,8 +33,6 @@ body {
 .console-input {
     background-color: #333;
     display: block;
-    position: relative;
-    bottom: 0;
     border: 0;
     width: calc(100% - 40px);
     padding-top: 10px;
